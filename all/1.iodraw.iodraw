@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_NP1izPTbiy29cWraqar-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_NP1izPTbiy29cWraqar-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_NP1izPTbiy29cWraqar-1" target="_NP1izPTbiy29cWraqar-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_NP1izPTbiy29cWraqar-1" value="道路监测光纤" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NP1izPTbiy29cWraqar-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
