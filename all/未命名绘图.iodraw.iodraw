@@ -7,6 +7,9 @@
         <mxCell id="r-S33kAH1G4xctNL6Gyd-1" value="低价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="360" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r-S33kAH1G4xctNL6Gyd-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
