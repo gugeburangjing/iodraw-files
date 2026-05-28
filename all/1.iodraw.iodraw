@@ -10,7 +10,7 @@
         <mxCell id="_NP1izPTbiy29cWraqar-1" value="道路监测光纤" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_NP1izPTbiy29cWraqar-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_NP1izPTbiy29cWraqar-2" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Φ&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
