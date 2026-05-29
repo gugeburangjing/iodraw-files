@@ -19,6 +19,9 @@
         <mxCell id="RsHA-T0-z04i7bdhWxyY-4" value="互信息过滤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RsHA-T0-z04i7bdhWxyY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RsHA-T0-z04i7bdhWxyY-5" target="RsHA-T0-z04i7bdhWxyY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-5" value="PCA降维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
