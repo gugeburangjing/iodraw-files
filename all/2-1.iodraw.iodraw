@@ -34,8 +34,14 @@
         <mxCell id="RsHA-T0-z04i7bdhWxyY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RsHA-T0-z04i7bdhWxyY-6" target="RsHA-T0-z04i7bdhWxyY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RsHA-T0-z04i7bdhWxyY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RsHA-T0-z04i7bdhWxyY-8" target="RsHA-T0-z04i7bdhWxyY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-8" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsHA-T0-z04i7bdhWxyY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RsHA-T0-z04i7bdhWxyY-9" target="RsHA-T0-z04i7bdhWxyY-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-9" value="自注意力机制&lt;div&gt;（计算各模态权重，加权求和）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
@@ -48,6 +54,9 @@
         </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-12" value="分级预警&lt;div&gt;（小型/中型/大型）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsHA-T0-z04i7bdhWxyY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RsHA-T0-z04i7bdhWxyY-10" target="RsHA-T0-z04i7bdhWxyY-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
