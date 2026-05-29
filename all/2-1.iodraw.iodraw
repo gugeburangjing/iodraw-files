@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RsHA-T0-z04i7bdhWxyY-1" value="统计特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-2" value="图像深度特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="RsHA-T0-z04i7bdhWxyY-11" value="全连接层&lt;div&gt;（0：背景噪声；1：正常交通&lt;/div&gt;&lt;div&gt;2：小型冲击；3：中型冲击&lt;/div&gt;&lt;div&gt;4：大型冲击；5：其他干扰）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="560" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RsHA-T0-z04i7bdhWxyY-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RsHA-T0-z04i7bdhWxyY-12" value="分级预警&lt;div&gt;（小型/中型/大型）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
