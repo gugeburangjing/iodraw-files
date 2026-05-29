@@ -37,6 +37,9 @@
         <mxCell id="RsHA-T0-z04i7bdhWxyY-11" value="全连接层&lt;div&gt;（0：背景噪声；1：正常交通&lt;/div&gt;&lt;div&gt;2：小型冲击；3：中型冲击&lt;/div&gt;&lt;div&gt;4：大型冲击；5：其他干扰）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="560" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="RsHA-T0-z04i7bdhWxyY-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
