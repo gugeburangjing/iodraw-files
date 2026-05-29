@@ -17,7 +17,7 @@
           <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-5" value="PCA降维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="200" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-6" value="维度对齐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="110" y="520" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RsHA-T0-z04i7bdhWxyY-12" value="分级预警&lt;div&gt;（小型/中型/大型）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
