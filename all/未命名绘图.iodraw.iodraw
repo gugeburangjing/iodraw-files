@@ -7,6 +7,9 @@
         <mxCell id="V0eDmjn5XhnijtDR0Nqb-1" value="道路监测光纤&lt;div&gt;（路肩浅埋0.3~0.6m）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="V0eDmjn5XhnijtDR0Nqb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
