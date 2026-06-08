@@ -39,6 +39,9 @@
             <mxPoint x="370" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="V0eDmjn5XhnijtDR0Nqb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V0eDmjn5XhnijtDR0Nqb-7" target="V0eDmjn5XhnijtDR0Nqb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V0eDmjn5XhnijtDR0Nqb-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;信号解混与特征提取&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
         </mxCell>
