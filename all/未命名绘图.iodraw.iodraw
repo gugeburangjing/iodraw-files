@@ -10,6 +10,9 @@
         <mxCell id="V0eDmjn5XhnijtDR0Nqb-3" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;Φ-OTDR解调仪（DTS信号采集）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="V0eDmjn5XhnijtDR0Nqb-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
